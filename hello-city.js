@@ -1,2 +1,2 @@
-hello city
+hello mygb city
 zmiany w mygb
