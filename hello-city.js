@@ -1,2 +1,2 @@
 hello mygb, master city
-zmiany w mygb
+zmiany w mygb3
